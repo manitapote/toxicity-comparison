@@ -20,3 +20,7 @@ toxicity/score_comparison/perspective_api_comparison.ipynb
  and Open AI moderation scores
 toxicity/correlation/open_ai_perspective.ipynb 
 ```
+
+## Results
+
+The result of comparison is shown in table below. Component 1 and 3 are comparatively more toxic.
