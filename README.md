@@ -24,3 +24,6 @@ toxicity/correlation/open_ai_perspective.ipynb
 ## Results
 
 The result of comparison is shown in table below. Component 1 and 3 are comparatively more toxic.
+
+
+![Comparison of Perspective API toxicity scores](./toxicity_comparison.png)
